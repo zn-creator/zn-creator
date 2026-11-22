@@ -6,8 +6,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<a href="https://github.com/zn-creator/Alika-Tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-alika-tools-dark.svg"><img src="assets/project-alika-tools-light.svg" width="49%" alt="Alika-Tools"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
